@@ -1,3 +1,4 @@
+#model
 require 'time'
 class NoaaApi < ApplicationRecord
 	def self.get_api_info
