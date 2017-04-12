@@ -1,0 +1,11 @@
+<h1> Auto Calls for 24 hour spans </h1>
+
+<h1> Newest Score <%= @helio_data %> </h1>
+<h1> Time of Score <%= @helio_data1 %> </h1>
+
+
+<section class= 'container col-sm-12'>
+  <% @helio_info.each do |info| %>
+     {<%= info['event_score'] %>}
+  <%end%>
+</section>
