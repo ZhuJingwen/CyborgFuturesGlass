@@ -19,6 +19,14 @@ app.get('/', function(req, res){
   res.sendFile(__dirname + '/index.html');
 });
 
+// set up user msg
+io.on('connection', function(socket){
+	console.log('user be on it');
+	socket.on('disconnect', function(){
+		console.log('user said bye bye')
+	});
+});
+
 // set up socket and call api
 io.on('connection', function(socket){
   const options = {  
