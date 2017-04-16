@@ -6,4 +6,4 @@ Rails Repo: https://github.com/kyle1james/glass_bean
 
 Node Server: https://blue-sun.herokuapp.com/
 
-Node Request: https://github.com/kyle1james/solar_server
+Node Repo: https://github.com/kyle1james/solar_server
