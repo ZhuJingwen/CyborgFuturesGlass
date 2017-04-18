@@ -1,0 +1,25 @@
+{
+  "name": "bean-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuJingwen/CyborgFuturesGlass"
+  },
+  "author": "Jingwen Zhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuJingwen/CyborgFuturesGlass"
+  },
+  "homepage": "https://github.com/ZhuJingwen/CyborgFuturesGlass#readme"
+}
