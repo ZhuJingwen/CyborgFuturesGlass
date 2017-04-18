@@ -5,8 +5,8 @@
   You need to upload the bean_LED example (same github folder) to your Bean.
   Read more about ScratchData: https://punchthrough.com/bean/the-arduino-reference/setscratchdata/
 
-  created 30 Mar 2015
-  by Maria Paula Saba based on Jacob Rosenthal examples
+  created 18 April 2017
+  by Jingwen Zhu based on Maria Paula Saba examples
 
 */
 
