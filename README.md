@@ -6,9 +6,9 @@ bean-server[WIP]: read solar data from api, create it's own api route
 
 bean-client[WIP]: receive data from bean-server
 
-Rails App: https://blue-bean.herokuapp.com/
+Rails App: https://cyborg-solar.herokuapp.com
 
-Rails Repo: https://github.com/kyle1james/glass_bean
+Rails Repo: https://github.com/kyle1james/cyborg_website
 
 Node Server: https://blue-sun.herokuapp.com/
 
